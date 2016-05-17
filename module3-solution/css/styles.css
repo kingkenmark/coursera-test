@@ -1,0 +1,32 @@
+#header-nav {
+  background-color: #f6b319;
+  border-radius: 0;
+  border: 0;
+}
+
+#nav-list a {
+  color: #951C49;
+  text-align: center;
+}
+
+#collapsable-nav {
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+#nav-list {
+	background-color: #A7E7E8;
+	margin: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+#chicken {
+	background-color: #557c3e;
+	padding: 15px;
+	height: 20000px;
+}
+
+.item {
+	border: 1px solid #61122f;
+}
